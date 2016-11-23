@@ -95,3 +95,5 @@ python -m basic.cli --mode test --batch_size 2 --num_gpus 3
 [squad]: http://stanford-qa.com
 
 
+##
+**share:** [bi-att-flow](https://github.com/allenai/bi-att-flow)
