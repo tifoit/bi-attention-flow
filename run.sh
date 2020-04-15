@@ -2,8 +2,8 @@
 source_path=$1
 target_path=$2
 inter_dir="inter"
-split_dir="$inter_dir/split"
-merge_dir="$inter_dir/merge"
+split_dir="$inter_dir/split" #
+merge_dir="$inter_dir/merge" #
 root_dir="save"
 load_path="$root_dir/34/basic-20000"
 shared_path="$root_dir/34/shared.json"
